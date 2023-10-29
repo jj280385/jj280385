@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zora Chen.
-- 👀 I’m interested in hiking and watch movie.
-- 🌱 I’m currently learning JavaScript and Node.js .
+- 🌱 I’m a Frontend Engineer.
+- 👀 LOVE Hiking and Movie.
 - 📫 Reach Me: E-mail: jj280385@gmail.com.
 
 <!---
